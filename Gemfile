@@ -46,3 +46,5 @@ group :development do
   # gem "spring"
 end
 
+# use rack-cors to allow cross-origin resource sharing for all origins
+gem 'rack-cors'
